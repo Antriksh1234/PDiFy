@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDiFy</string>
+    <string name="create">Create a new PDF</string>
+    <string name="edit">Edit an existing PDF</string>
+    <string name="view">View an existing PDF</string>
+    <string name="share">Share an existing PDF</string>
+</resources>
